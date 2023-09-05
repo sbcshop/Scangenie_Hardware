@@ -1,23 +1,25 @@
 # Scangenie_Hardware
+<img src="">
+ScanGenie is your powerful barcode solution with a 1.14" LCD screen, rapid Barcode/QR code scanner, versatile UART communication, Type-C USB port, and a buzzer. It simplifies complex barcode decoding, effortlessly connects to the cloud, and provides real-time feedback. Supporting 20 barcode symbologies, it's an open-source platform for developers and enthusiasts. Say goodbye to tough barcode challenges with ScanGenie's simplicity and versatility.
 
-
+This GitHub provides hardware design files for ScanGenie.
 ### Repository Contents:
   - [/Design Data]() - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data]() - This directory contains Dimension, 3D and STEP files
   - [ScanGenie Getting Started Guide](https://github.com/sbcshop/Makerpad_Pro_Software) - This repo contains ScanGenie Getting Started and Sample Codes.
 
 ## Related Products
-  * [Dual USB Breakout](https://shop.sb-components.co.uk/products/dual-usb-breakout?_pos=2&_sid=47418e842&_ss=r) 
+  * [Barcode HAT](https://shop.sb-components.co.uk/products/barcode-hat-for-raspberry-pi) 
    
-     ![dual-usb-breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/DualUSBBreakout3.png?v=1676034428&width=300)   
+     ![Barcode_HAT](https://shop.sb-components.co.uk/cdn/shop/products/4_b21d715d-e0ec-45a6-a743-fed89e77b3c3.jpg?v=1665556430&width=300)   
 
-  * [MicroSD Card Breakout](https://shop.sb-components.co.uk/products/sd-card-breakout?_pos=1&_sid=be5068526&_ss=r) 
+  * [Barcode Scanner Module, 1D/2D Codes Reader](https://shop.sb-components.co.uk/products/barcode-scanner-module-1d-2d-codes-reader) 
    
-     ![SDCardBreakout](https://cdn.shopify.com/s/files/1/1217/2104/products/SDCardBreakout.png?v=1643699904&width=300) 
+     ![Barcode_Scanner_Module](https://shop.sb-components.co.uk/cdn/shop/products/barcode-scanner-module-1_1.jpg?v=1612257001&width=300) 
 
-  * [1.3" LCD Breakout](https://shop.sb-components.co.uk/products/1-3-lcd-breakout?_pos=2&_sid=23eee937e&_ss=r) 
+  * [1D 2D CMOS DE2120 Barcode Scanner Sensor](https://shop.sb-components.co.uk/products/1d-2d-cmos-de2120-barcode-scanner-sensor) 
    
-     ![1.3" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_1_a486ba53-c02b-4491-b110-a9b64736ad39.png?v=1677241189&width=300) 
+     ![1D_2D_CMOS_DE2120_Barcode Scanner_Sensor](https://shop.sb-components.co.uk/cdn/shop/products/16410-2D_Barcode_Scanner_Module_-_DE2120-01.jpg?v=1657026105&width=300) 
 
  
 ## Product License
