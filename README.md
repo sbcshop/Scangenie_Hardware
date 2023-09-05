@@ -4,8 +4,8 @@ ScanGenie is your powerful barcode solution with a 1.14" LCD screen, rapid Barco
 
 The hardware design files for ScanGenie are available on this GitHub.
 ### Repository Contents:
-  - [/Design Data]() - This directory contains Schematic, Top and Bottom View
-  - [/Mechanical Data]() - This directory contains Dimension, 3D and STEP files
+  - [/Design Data](https://github.com/sbcshop/Scangenie_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/Scangenie_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [ScanGenie Getting Started Guide](https://github.com/sbcshop/Makerpad_Pro_Software) - This repo contains ScanGenie Getting Started and Sample Codes.
 
 ## Related Products
