@@ -1,5 +1,5 @@
 # Scangenie_Hardware
-<img src="">
+
 ScanGenie is your powerful barcode solution with a 1.14" LCD screen, rapid Barcode/QR code scanner, versatile UART communication, Type-C USB port, and a buzzer. It simplifies complex barcode decoding, effortlessly connects to the cloud, and provides real-time feedback. Supporting 20 barcode symbologies, it's an open-source platform for developers and enthusiasts. Say goodbye to tough barcode challenges with ScanGenie's simplicity and versatility.
 
 The hardware design files for ScanGenie are available on this GitHub.
