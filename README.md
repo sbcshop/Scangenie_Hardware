@@ -8,7 +8,7 @@ The hardware design files for ScanGenie are available on this GitHub.
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Scangenie_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/Scangenie_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
-  - [ScanGenie Getting Started Guide](https://github.com/sbcshop/Makerpad_Pro_Software) - This repo contains ScanGenie Getting Started and Sample Codes.
+  - [ScanGenie Getting Started Guide](https://github.com/sbcshop/Scangenie_Software) - This repo contains ScanGenie Getting Started and Sample Codes.
 
 ## Related Products
   * [Barcode HAT](https://shop.sb-components.co.uk/products/barcode-hat-for-raspberry-pi) 
